@@ -368,6 +368,9 @@ body {
   .add-to-cart-button .text {
     font-weight: 500;
   }
+  .container-about {
+    max-width: 716px;
+  }
 
   .container {
     display: flex;
